@@ -64,11 +64,14 @@ I'm a passionate front-end developer who loves creating interactive and dynamic 
 - **Frameworks/Libraries:** Bootstrap, jQuery , React 
 - **Tools:** Git, VS Code, Chrome DevTools
 - interested in Bots and game development with JS and python 
+<div align="center">
 
 ## 📈 GitHub Stats
-<div align="center">
+
 ![Zohour's GitHub stats](https://github-readme-stats.vercel.app/api?username=Zu34&show_icons=true&theme=radical)
+
 </div>
+
 ## 🖥️ Featured Projects
 Here are some of the projects I've been working on:
 
