@@ -5,7 +5,11 @@
 
 <div id="header" align="center">
   <iframe src="https://giphy.com/embed/0irIDXCtXpsHlgGq2p" width="480" height="480" frameborder="0" allowfullscreen></iframe>
+  <p>
+    <a href="https://giphy.com/gifs/ReadyGames-play-web3-network-0irIDXCtXpsHlgGq2p" target="_blank"></a>
+  </p>
 </div>
+
 
 
 <div id="badges">
