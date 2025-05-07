@@ -3,9 +3,20 @@
 
 
 
-<div id="header" align="center">
-  <img src="https://media.giphy.com/media/0irIDXCtXpsHlgGq2p/giphy.gif" width="480" height="480" alt="Web3 Animation">
+<div align="center">
+  <img 
+    src="https://media.giphy.com/media/L1R1tvI9svkIWwpVYr/giphy.gif" 
+    width="480" 
+    height="271" 
+    alt="Coding Animation from GIPHY" 
+    style="max-width: 100%; height: auto;" 
+  />
+  <p>
+    <a href="https://giphy.com/gifs/Pluralsight-computer-technology-coding-L1R1tvI9svkIWwpVYr" target="_blank">
+    </a>
+  </p>
 </div>
+
 
 
 
