@@ -4,10 +4,7 @@
 
 
 <div id="header" align="center">
-  <iframe src="https://giphy.com/embed/0irIDXCtXpsHlgGq2p" width="480" height="480" frameborder="0" allowfullscreen></iframe>
-  <p>
-    <a href="https://giphy.com/gifs/ReadyGames-play-web3-network-0irIDXCtXpsHlgGq2p" target="_blank"></a>
-  </p>
+  <img src="https://media.giphy.com/media/0irIDXCtXpsHlgGq2p/giphy.gif" width="480" height="480" alt="Web3 Animation">
 </div>
 
 
