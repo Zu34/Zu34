@@ -77,7 +77,7 @@ I'm a passionate front-end developer who loves creating interactive and dynamic 
 
 ## 📈 GitHub Stats
 
-![Zohour's GitHub stats](https://github-readme-stats.vercel.app/api?username=Zu34&show_icons=true&theme=radical)
+![Zohour's GitHub stats]([https://github-readme-stats.vercel.app/api?username=Zu34&show_icons=true&theme=radical](https://github-readme-stats.vercel.app/api?username=Zu34&show_icons=true&theme=radical))
 
 </div>
 
