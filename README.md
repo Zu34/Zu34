@@ -34,8 +34,7 @@
   <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"/>
 </h1>
 
-Check out my interactive profile page hosted on GitHub Pages:  
-[Visit My Profile](https://zu34.github.io/Profile-md/)
+
 
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://via.placeholder.com/600x200/333333/FFFFFF?text=Dark+Mode+Image">
