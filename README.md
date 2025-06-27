@@ -57,7 +57,9 @@
 </details>
 
 
-I'm a passionate front-end developer who loves creating interactive and dynamic web applications. Welcome to my GitHub profile!
+<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=nileshdeshmukh09&show_icons=true&locale=en&layout=compact" alt="nileshdeshmukh09" /></p>
+
+
 
 ## 🚀 About Me
 - 🔭 **Current Focus:** Enhancing my skills in JavaScript animations and responsive design.
