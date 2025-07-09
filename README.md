@@ -53,17 +53,6 @@
 - 📧 [Email](mailto:zohoureid44@gmail.com)
 
 
-
-## 🛠️ My Tech Stack
-- **Languages:** HTML, CSS, JavaScript, C and python 
-- **Frameworks/Libraries:** Bootstrap, jQuery , React 
-- **Tools:** Git, VS Code, Chrome DevTools
-- interested in Bots and game development with JS and python 
-
-
-
-
-
 ## 🖥️ Featured Projects
 Here are some of the projects I've been working on:
 
