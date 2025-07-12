@@ -32,13 +32,6 @@
 
 
 
-### 🌞 Light Mode Preview
-![Light Mode](https://via.placeholder.com/600x200/FFFFFF/000000?text=Light+Mode+Image)
-
-### 🌙 Dark Mode Preview
-![Dark Mode](https://via.placeholder.com/600x200/333333/FFFFFF?text=Dark+Mode+Image)
-
-
 ## 🚀 About Me
 - 🔭 **Current Focus:** Enhancing my skills in Node.js & Angular.
 - 🌱 **Learning:** techniques and modern JavaScript frameworks specifically in Discord Bots
