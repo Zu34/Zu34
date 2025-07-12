@@ -32,11 +32,11 @@
 
 
 
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://via.placeholder.com/600x200/333333/FFFFFF?text=Dark+Mode+Image">
-  <source media="(prefers-color-scheme: light)" srcset="https://via.placeholder.com/600x200/FFFFFF/000000?text=Light+Mode+Image">
-  <img alt="An example of dynamic dark/light mode" src="https://via.placeholder.com/600x200/CCCCCC/333333?text=Default+Image">
-</picture>
+### 🌞 Light Mode Preview
+![Light Mode](https://via.placeholder.com/600x200/FFFFFF/000000?text=Light+Mode+Image)
+
+### 🌙 Dark Mode Preview
+![Dark Mode](https://via.placeholder.com/600x200/333333/FFFFFF?text=Dark+Mode+Image)
 
 
 ## 🚀 About Me
@@ -84,9 +84,8 @@ Feel free to explore these repositories to see my work in action!
 
 <hr/>
 <a href="https://visitcount.itsvg.in">
-  <img src="https://visitcount.itsvg.in/api?id=None02Yards&icon=0&color=0"/>
+  <img src="https://visitcount.itsvg.in/api?id=None02Yards&label=Profile%20Views&icon=5&color=6&pretty=true" />
 </a>
 
 </div>
 
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
